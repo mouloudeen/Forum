@@ -1,4 +1,4 @@
-#projet_techno
+# Projet_technologique
 Projet technologique Licence 3, réalisé par : Diallo Gabalan, Djeeva Souprayenmestry, Sidali Zitouni Terki, Thomas Guesdon.
 
 Le but de ce projet est de proposer un forum pouvant être utilisés par des enfants d'une école.
